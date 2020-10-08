@@ -5,7 +5,6 @@ Visual studio-installed python Application, pyodbc,pip,pypyodbc
 SQL server managment-installed SQL Server
 
 Methodological information
- Basic CRUD operations
  Used pyodbc to connect to SQL Server
 Created database=mahi
 server="."
@@ -20,7 +19,7 @@ used a varible as cursor
 used a foreach loop to print all rows from table
 create()
 used insert query and connection to SQLServer and calling the read function to preview the data
-update
+update()
 used update query and decalred values and called read function to preview data
-delete
+delete()
 given a delete query and given condition to delete values, commited the changes
